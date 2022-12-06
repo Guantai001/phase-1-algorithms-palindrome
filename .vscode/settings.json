@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": true,
+    "workbench.view.alwaysShowHeaderActions": false,
+    "workbench.tree.indent": 9,
+    "liveServer.settings.port": 5501
+}
